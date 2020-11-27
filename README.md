@@ -1,4 +1,4 @@
-# SpringWebMVC05: Conexión a MySQL con JdbcTemplate y CRUD con MySQL y JdbcTemplate
+# SpringWebMVC06: Conexión a MySQL con JdbcTemplate y CRUD con MySQL y JdbcTemplate
 
 En esta clase comenzamos un bloque dedicado al trabajo con MySQL, para eso usaremos la clase org.springframework.jdbc.core.JdbcTemplate y su método queryForList para procesar los resultados de la consulta.
 Además, usaremos el objeto org.springframework.jdbc.datasource.DriverManagerDataSource para crear la interfaz de conexión.
